@@ -1,4 +1,6 @@
 # Harvey
-I'm a 6 foot white rabbit that will automatically test your website for you.
+I'm an invisible 6 foot white rabbit that will automatically test your website for you.
 
-Uses selenium to drive browser sessions.
+I will use Selenium to drive browser sessions.
+I will log using Log4Net.
+
